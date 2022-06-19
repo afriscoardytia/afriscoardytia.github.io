@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2b748c0.css",
+    "main.js": "/static/js/main.feedfadb.js",
+    "static/js/787.11a40385.chunk.js": "/static/js/787.11a40385.chunk.js",
+    "static/media/desa-bank.png": "/static/media/desa-bank.c752df85b9e11c3f2797.png",
+    "static/media/foto.jpg": "/static/media/foto.b07f7191a5f3c24098f0.jpg",
+    "static/media/penggajian.png": "/static/media/penggajian.3f09bad6d7aaa9761d05.png",
+    "static/media/lezato.png": "/static/media/lezato.b8c1b8236d8ef46669da.png",
+    "index.html": "/index.html",
+    "main.c2b748c0.css.map": "/static/css/main.c2b748c0.css.map",
+    "main.feedfadb.js.map": "/static/js/main.feedfadb.js.map",
+    "787.11a40385.chunk.js.map": "/static/js/787.11a40385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b748c0.css",
+    "static/js/main.feedfadb.js"
+  ]
+}
